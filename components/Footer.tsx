@@ -11,13 +11,12 @@ export default function Footer() {
               Available for commissions and collaborations
             </p>
             <div className="space-y-2 text-zinc-400">
-              <p>contact@architect.studio</p>
-              <p>+234 XXX XXXX XXX</p>
+              <p>oladiransamuel72@gmail.com</p>
             </div>
           </div>
           <div className="flex flex-col justify-end items-end">
             <div className="text-right text-zinc-600 text-sm tracking-wider space-y-2">
-              <p>© 2024 Architecture Portfolio</p>
+              <p>© 2026 Samuel's Portfolio</p>
               <p>All rights reserved</p>
             </div>
           </div>

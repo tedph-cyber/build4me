@@ -117,7 +117,7 @@ export default function ProjectCard({ project, index }: ProjectCardProps) {
                 <img
                   src={project.image}
                   alt={project.title}
-                  className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
+                  className="w-full h-full object-cover hover:grayscale-0 transition-all duration-700"
                 />
               </motion.div>
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />

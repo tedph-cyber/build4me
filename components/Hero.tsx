@@ -31,7 +31,7 @@ export default function Hero() {
           className="mb-8"
         >
           <div className="inline-block px-6 py-2 text-xs tracking-[0.5em] uppercase border border-zinc-700 text-zinc-400 mb-12">
-            Architecture Portfolio
+            Samuel's Portfolio
           </div>
         </motion.div>
 

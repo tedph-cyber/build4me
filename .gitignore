@@ -7,6 +7,7 @@ dist/
 build/
 out/
 *.log
+.next/
 
 # Environment variables
 .env

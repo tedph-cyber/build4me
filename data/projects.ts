@@ -15,7 +15,7 @@ export const projects: Project[] = [
     location: "Lagos, Nigeria",
     year: "2024",
     description: "A modern residential development featuring sustainable design principles and community-focused spaces.",
-    image: "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80",
+    image: "/images/house_1.jpeg",
     category: "Residential"
   },
   {
@@ -24,7 +24,7 @@ export const projects: Project[] = [
     location: "Abuja, Nigeria",
     year: "2023",
     description: "Mixed-use commercial space integrating retail, office, and public amenities in an innovative vertical design.",
-    image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    image: "/images/house_2.jpeg",
     category: "Commercial"
   },
   {
